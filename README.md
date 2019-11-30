@@ -28,7 +28,7 @@ In the `config.py` file, write your login info and fill the COURSES array with t
 ```
 USERNAME = 'user@email.com'
 PASSWORD = 'password'
-COOKIE = '"li_at" cookie after login' #empty if not use cookie
+COOKIE = '"li_at" cookie after login' #empty if not use cookie, use cookie don't need user, pass
 
 COURSES = [
     'it-security-foundations-core-concepts',
